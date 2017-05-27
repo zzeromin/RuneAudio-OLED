@@ -1,5 +1,5 @@
 # RuneAudio-OLED
-I2C 2.42 inch 128x64 Graphic OLED for RuneAudio using RAS Music-Pi
+I2C 2.42 inch 128x64 Graphic OLED for RAS Music-Pi
 
 <img src="https://github.com/zzeromin/RuneAudio-OLED/blob/master/2.42OLED.jpg" width="50%" height="50%">
 
