@@ -12,6 +12,8 @@ I2C 2.42 inch 128x64 Graphic OLED for RAS Music-Pi
 * AMP: TPA3116D2
 * VU Meter
 
+<img src="https://github.com/zzeromin/RuneAudio-OLED/blob/master/RasMusicPi.jpg" width="50%" height="50%">
+
 ## Reference
 * http://cafe.naver.com/raspigamer/6336
 * http://cafe.naver.com/raspigamer/6114
