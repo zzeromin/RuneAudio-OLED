@@ -6,6 +6,7 @@ Title        : RuneAudio_OLED.py
 Author       : zzeromin, member of Raspberrypi Village and Tentacle Team
 Creation Date: Apr 30, 2017
 Blog         : http://rasplay.org, http://forums.rasplay.org/, https://zzeromin.tumblr.com/
+Github       : https://github.com/rasplay, https://github.com/zzeromin
 Cafe         : http://cafe.naver.com/raspigamer
 Thanks to    : smyani
 Free and open for all to use. But put credit where credit is due.
