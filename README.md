@@ -11,3 +11,13 @@ I2C 2.42 inch 128x64 Graphic OLED for RAS Music-Pi
 * IR: KSM-603LM5ND
 * AMP: TPA3116D2
 * VU Meter
+
+## Reference
+[라즈디아파이(Ras-DiA-Pi) 완성!!]
+http://cafe.naver.com/raspigamer/6114
+
+[라즈디아파이(Ras-DiA-Pi) 레벨업! 버전업!]
+http://cafe.naver.com/raspigamer/6174
+
+[Github: RuneAudio-OLED]
+https://github.com/zzeromin/RuneAudio-OLED
