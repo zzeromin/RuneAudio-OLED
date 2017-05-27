@@ -5,6 +5,7 @@
 Description=Runeaudio OLED Service
 
 [Service]
+ExecStartPre=/usr/bin/sh -c "sleep 3"
 ExecStart=/usr/bin/python2 /root/RuneAudio-OLED/RuneAudio_OLED.py
 Type=simple
 Restart=always

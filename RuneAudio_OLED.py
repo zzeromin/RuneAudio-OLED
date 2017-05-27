@@ -11,24 +11,23 @@ Thanks to    : smyani
 Free and open for all to use. But put credit where credit is due.
 
 reference    :
- https://brunch.co.kr/@gogamza/6
- https://github.com/haven-jeon/piAu_volumio
- http://blog.naver.com/kjnam100/220805352857
- https://pypi.python.org/pypi/Pillow/2.1.0
+    https://brunch.co.kr/@gogamza/6
+    https://github.com/haven-jeon/piAu_volumio
+    http://blog.naver.com/kjnam100/220805352857
+    https://pypi.python.org/pypi/Pillow/2.1.0
 
- installed python package: python2-pip, i2c-tools, python-imaging, python-mpd2, gcc
- This code edited for rpi2 runeaudio by zzeromin
+installed python package: python2-pip, i2c-tools, python-imaging, python-mpd2, gcc
+This code edited for rpi2 runeaudio by zzeromin
 
 install      :
-pacman -Syy
-pacman -S python2-pip 
-pacman -S gcc
-pacman -S python-imaging
-pip install python-mpd2
-git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
-git clone https://github.com/adafruit/Adafruit_Python_SSD1306.git
-git clone https://github.com/zzeromin/RuneAudio-OLED.git
-systemctl enable oled
+    pacman -Syy
+    pacman -S python2-pip 
+    pacman -S gcc
+    pacman -S python-imaging
+    pip install python-mpd2
+    git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
+    git clone https://github.com/adafruit/Adafruit_Python_SSD1306.git
+    git clone https://github.com/zzeromin/RuneAudio-OLED.git
 """
 
 import time
