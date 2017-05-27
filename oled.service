@@ -1,0 +1,13 @@
+# systemd service about auto-start oled.service after booting
+# path and command: nano /lib/systemd/system/oled.service
+
+[Unit]
+Description=Runeaudio OLED Service
+
+[Service]
+ExecStart=/usr/bin/python2 /root/RuneAudio-OLED/RuneAudio_OLED.py
+Type=simple
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
