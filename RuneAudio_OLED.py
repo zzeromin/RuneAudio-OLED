@@ -242,9 +242,9 @@ def main():
     # Load default font.
     poller = MPDPoller()
     poller.connect()
-    font_art = ImageFont.truetype('/root/RuneAudio_OLED/NanumGothic.ttf', 13)
-    font_tit = ImageFont.truetype('/root/RuneAudio_OLED/NanumGothic.ttf', 13)
-    font_info = ImageFont.truetype('/root/RuneAudio_OLED/NotoSansUI-Regular.ttf', 12)
+    font_art = ImageFont.truetype('/root/RuneAudio_OLED/NanumGothic.ttf', 12)
+    font_tit = ImageFont.truetype('/root/RuneAudio_OLED/NanumGothic.ttf', 12)
+    font_info = ImageFont.truetype('/root/RuneAudio_OLED/NanumGothic.ttf', 12)
     #get ip address of eth0 connection
     cmdeth = "ip addr show eth0 | grep 'inet ' | awk '{print $2}' | cut -d/ -f1"
     #get ip address of wlan0 connection
