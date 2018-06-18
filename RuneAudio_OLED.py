@@ -260,7 +260,7 @@ def main():
         if status is None:
             draw.rectangle((0, 0, width, height), outline=0, fill=0)
             msg1 = "Welcome RuneAudio"
-            msg2 = "RAS Yolo Pi"
+            msg2 = "RAS Mini Pi"
             ipaddr = get_ip_address(cmd, cmdeth)
             draw.text((0, top), unicode(msg1).center(1,' '), font=font_tit, fill=255)
             draw.text((0, top+15), unicode(msg2).center(2, ' '), font=font_tit, fill=255)
