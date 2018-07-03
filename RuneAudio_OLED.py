@@ -256,7 +256,7 @@ def main():
 
         if status is None:
             msg1 = "라즈미니파이"
-            msg2 = "9월5일한글티니가좌"
+            msg2 = "라즈겜동 텐타클 "
             msg3 = datetime.now().strftime( "%b %d %H:%M:%S" )
             msg4 = unicode( "IP " + ipaddr )
             t1_size = draw.textsize(msg1, font=font_msg1)
